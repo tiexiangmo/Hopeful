@@ -1,0 +1,5 @@
+利用DeepXDE求解二维瞬态热传导方程。
+
+DeepXDE是一个较为完善的PINN库，其封装了大量PINN建模时所需要编写的代码，可以使用当前流行的AI框架（如pytorch、TensorFlow、PaddlePaddle、Jax等），编写的代码比较简洁易懂。
+
+案例计算结果如图所示。
